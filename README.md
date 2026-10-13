@@ -1,27 +1,84 @@
-<h1 align="center">Hi 👋, I'm Pranav Gupta</h1>
-<h3 align="center">A passionate software developer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranav-maheshwari2003&label=Profile%20views&color=0e75b6&style=flat" alt="pranav-maheshwari2003" /> </p>
+# Hi, I'm Pranav Gupta 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranav-maheshwari2003" alt="pranav-maheshwari2003" /></a> </p>
+### Aspiring Software Developer | Python Full Stack Developer
 
-- 🌱 I’m currently learning **Data Science**
+BCA graduate building practical projects with Python, databases, and web technologies.
 
-- 💬 Ask me about **full stack dev**
+[![GitHub](https://img.shields.io/badge/GitHub-pranavgupta-181717?style=for-the-badge&logo=github)](https://github.com/pranavgupta)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pranav-gupta-008072230/)
 
-- 📫 How to reach me **pranavmaheshwari026@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/pranav-gupta-008072230" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/pranav-gupta-008072230" height="30" width="40" /></a>
-<a href="https://instagram.com/pranav.maheshwaari.925" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pranav.maheshwaari.925" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## 👨‍💻 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranav-maheshwari2003&show_icons=true&locale=en&layout=compact" alt="pranav-maheshwari2003" /></p>
+- 🎓 BCA graduate interested in software development and full-stack web development.
+- 🐍 Building my programming foundation with **Python**.
+- 🗄️ Practising database design and queries with **MySQL / SQL**.
+- 🌐 Learning to build useful web interfaces with **HTML, CSS, and JavaScript**.
+- 🛠️ Created a **Student Management System** using Python and MySQL.
+- 📚 Currently strengthening my skills in backend development and building portfolio projects.
+- 🎯 Goal: contribute to real-world software projects and grow as a developer.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranav-maheshwari2003&show_icons=true&locale=en" alt="pranav-maheshwari2003" /></p>
+## 🧰 Tech Stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranav-maheshwari2003&" alt="pranav-maheshwari2003" /></p>
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### Tools & Technologies
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-Python-blue?style=flat-square)
+
+### Currently Learning
+![Flask](https://img.shields.io/badge/Flask-Learning-000000?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-Learning-092E20?style=flat-square&logo=django&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-Learning-6B7280?style=flat-square)
+
+> I add technologies here as I learn and practise them. The “Currently Learning” section is a learning goal, not a claim of professional experience.
+
+## 🚀 Featured Project
+
+### 🎓 Student Management System
+
+A Python-based application for organising student records with database-backed storage.
+
+- **Tech:** Python, MySQL
+- **Features:** Add, view, update, delete, and search student records
+- **What I practised:** CRUD operations, database connectivity, and organising application code
+
+🔗 [Explore my repositories](https://github.com/pranavgupta?tab=repositories)
+
+> Replace the link above with the direct repository URL once the project is public. Add a screenshot and setup instructions to the project repository for a stronger portfolio.
+
+## 📌 What I'm Working On
+
+- Improving Python, OOP, and problem-solving skills
+- Practising SQL queries and relational database concepts
+- Building responsive web pages with HTML, CSS, and JavaScript
+- Learning backend development with Flask / Django
+- Building and documenting projects with clear READMEs
+
+## 🤝 Connect With Me
+
+- **GitHub:** [@pranavgupta](https://github.com/pranavgupta)
+- **LinkedIn:** [Pranav Gupta](https://www.linkedin.com/in/pranav-gupta-008072230/)
+
+I'm open to learning opportunities, collaboration, and entry-level software development roles.
+
+---
+
+<div align="center">
+
+*“Learn consistently. Build practically. Improve every day.”*
+
+</div>
